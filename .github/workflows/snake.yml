@@ -1,32 +1,28 @@
-name: Generate Snake
+name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"
+    - cron: "0 0 * * *" # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: Gokilavani19
+          github_user_name: gokilavani19
           outputs: |
-            ./dist/github-snake.svg
-            ./dist/github-snake-dark.svg?palette=github-dark
-            palette: "[#ffffff,#1e90ff,#32cd32,#ffa500,#ff4500]"
+            output/github-snake.svg
 
-
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push generated snake.svg
+        run: |
+          git config --global user.name 'gokilavani19'
+          git config --global user.email 'gokilavani.ee22@bitsathy.ac.in@example.com'
+          git add -A
+          git commit -m "Generate snake animation" || echo "No changes"
+          git push
