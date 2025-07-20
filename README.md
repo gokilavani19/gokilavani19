@@ -63,9 +63,8 @@ While my GitHub is just getting started, I'm eager to build and share impactful 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokilavani19&layout=compact&hide_title=true&theme=vue-dark" alt="Top languages" width="320"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/gokilavani19/gokilavani19/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
-</p>
+![GitHub Snake Light](https://github.com/gokilavani19/gokilavani19/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/gokilavani19/gokilavani19/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
