@@ -1,11 +1,4 @@
-<!-- HERO SECTION -->
-<h1 align="center">Hi, I'm GOKILAVANI S 👋</h1>
-<p align="center">
-  <strong>Emerging Developer | Explorer of Diverse Technologies</strong>
-</p>
-<p align="center">
-  <em>Turning curiosity into code, one project at a time.</em>
-</p>
+
 
 ---
 
