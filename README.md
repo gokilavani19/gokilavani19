@@ -5,7 +5,7 @@
 <!-- ABOUT ME -->
 ## 👩‍💻 About Me
 
-Hello! I'm GOKILAVANI_S, an enthusiastic independent developer passionate about exploring a wide spectrum of technologies. I thrive on experimenting with new tools, languages, and frameworks—constantly driven by a desire to learn, create, and innovate. My journey is just beginning, and I'm excited to connect, collaborate, and grow within the global tech community.
+Hello! I'm GOKILAVANI S, an enthusiastic independent developer passionate about exploring a wide spectrum of technologies. I thrive on experimenting with new tools, languages, and frameworks—constantly driven by a desire to learn, create, and innovate. My journey is just beginning, and I'm excited to connect, collaborate, and grow within the global tech community.
 
 ---
 
