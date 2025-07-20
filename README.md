@@ -36,19 +36,21 @@ Hello! I'm GOKILAVANI_S, an enthusiastic independent developer passionate about 
 <h3 align="left">💡 Skills & Current Learnings</h3>
 
 <ul align="left">
-  <li>🤖 <strong>AI & Machine Learning:</strong> Model training, image processing, fault detection using Python & MATLAB.</li><br>
+  <li>🤖 <strong>AI & Machine Learning:</strong> Model training, image processing, and automation using Python, Google Colab & MATLAB.</li><br>
 
-  <li>💻 <strong>Web Development:</strong> Learning React.js, component-based design, and frontend fundamentals.</li><br>
+  <li>🧠 <strong>Deep Learning:</strong> Understanding neural networks and applying TensorFlow for basic model development.</li><br>
 
-  <li>☁️ <strong>Cloud & DevOps:</strong> Basic AWS/Azure, CI/CD, Docker, and version control with Git.</li><br>
+  <li>💻 <strong>Web Development:</strong> Learning React.js, JSX, component-based design, and UI state management.</li><br>
 
-  <li>🧑‍💻 <strong>Languages & Tools:</strong> C, Java, Python, SQL (basic), MATLAB, Google Colab, VS Code.</li>
+  <li>☁️ <strong>Cloud & DevOps:</strong> Exposure to AWS, Azure, Docker, CI/CD pipelines, and GitHub workflows.</li><br>
+
+  <li>🛠️ <strong>Languages & Tools:</strong> C, Java, Python, SQL (basic), MATLAB, VS Code, Google Colab.</li>
 </ul>
 
 ---
 
 <!-- FEATURED PROJECTS -->
-<h2 style="text-align: center;">🌟 Featured Projects</h2>
+## 🌟 Featured Projects</h2>
 
 While my GitHub is just getting started, I'm eager to build and share impactful projects in the near future. Here's a glimpse of what's coming:
 
