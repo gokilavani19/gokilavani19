@@ -16,6 +16,14 @@ Hello! I'm GOKILAVANI_S, an enthusiastic independent developer passionate about 
 
 ---
 
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://github.com/Selvaganesh19/Selvaganesh19/blob/output/github-snake.svg" />
+</p>
+
+---
+
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
