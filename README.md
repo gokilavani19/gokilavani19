@@ -25,13 +25,12 @@ Hello! I'm GOKILAVANI_S, an enthusiastic independent developer passionate about 
 ---
 
 <h2 align="center">🚀 Tech Stack</h2> 
-
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" alt="Skills Animation" src="./Skills_Animation_White.gif" width="100%">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-
 <br />
 
 <h3 align="left">💡 Skills & Current Learnings</h3>
