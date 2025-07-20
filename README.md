@@ -19,7 +19,7 @@ Hello! I'm GOKILAVANI_S, an enthusiastic independent developer passionate about 
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gokilavani19/gokilavani19/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Gokilavani19/Gokilavani19/output/github-snake.svg" />
 </p>
 
 
