@@ -70,6 +70,13 @@ While my GitHub is just getting started, I'm eager to build and share impactful 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokilavani19&layout=compact&hide_title=true&theme=vue-dark" alt="Top languages" width="320"/>
 </p>
 
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gokilavani19&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
