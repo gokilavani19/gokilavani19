@@ -33,17 +33,22 @@ Hello! I'm GOKILAVANI_S, an enthusiastic independent developer passionate about 
 </picture>
 <br />
 
-<h3 align="left">💡 Skills & Current Learnings</h3>
+<h2>🌟 Featured Projects</h2>
 
-<ul align="left">
-  <li>🤖 <strong>AI & Machine Learning:</strong> Model training, image processing, fault detection using Python & MATLAB.</li><br>
+<p align="justify">
+While my GitHub is just getting started, I'm eager to build and share impactful projects in the near future. Here's a glimpse of what's coming:
+</p>
 
-  <li>💻 <strong>Web Development:</strong> Learning React.js, component-based design, and frontend fundamentals.</li><br>
-
-  <li>☁️ <strong>Cloud & DevOps:</strong> Basic AWS/Azure, CI/CD, Docker, and version control with Git.</li><br>
-
-  <li>🧑‍💻 <strong>Languages & Tools:</strong> C, Java, Python, SQL (basic), MATLAB, Google Colab, VS Code.</li>
+<ul>
+  <li>
+    <strong><a href="https://github.com/gokilavani19/gokilavani19">gokilavani19</a></strong><br>
+    <em>Personal learning lab for experimenting with diverse languages and development patterns.</em><br><br>
+    <img src="https://img.shields.io/badge/Status-Experimenting-blue" alt="Status"> 
+    <img src="https://img.shields.io/badge/Focus-Diverse%20Tech-grey" alt="Focus"> 
+  </li>
 </ul>
+
+<p><em>Stay tuned for innovative projects as I grow my portfolio!</em></p>
 
 ---
 
