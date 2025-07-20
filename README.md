@@ -45,11 +45,10 @@ Hello! I'm GOKILAVANI_S, an enthusiastic independent developer passionate about 
   <li>🧑‍💻 <strong>Languages & Tools:</strong> C, Java, Python, SQL (basic), MATLAB, Google Colab, VS Code.</li>
 </ul>
 
-
 ---
 
 <!-- FEATURED PROJECTS -->
-## 🌟 Featured Projects
+<h2 style="text-align: center;">🌟 Featured Projects</h2>
 
 While my GitHub is just getting started, I'm eager to build and share impactful projects in the near future. Here's a glimpse of what's coming:
 
