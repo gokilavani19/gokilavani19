@@ -47,21 +47,6 @@ Hello! I'm GOKILAVANI_S, an enthusiastic independent developer passionate about 
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/-Learning%20Mindset-4B8BBE.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open%20Source-333333?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Multi-Language-007396?style=flat&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Continuous%20Learner-0a192f?style=flat&logo=read-the-docs&logoColor=white" />
-</p>
-<p>
-  <em>Always exploring new programming languages and frameworks—ready to tackle any challenge!</em>
-</p>
-
----
-
 <!-- FEATURED PROJECTS -->
 ## 🌟 Featured Projects
 
