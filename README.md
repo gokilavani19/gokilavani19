@@ -87,3 +87,7 @@ I'm always open to connecting with fellow developers, learning new technologies,
 <p align="center">
   <em>“Every expert was once a beginner—let's keep pushing boundaries!”</em>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
